@@ -7,7 +7,7 @@ python+Tkinter库
 B站ID：路人炳_
 UID:94580301（https://space.bilibili.com/94580301
 
-[app页面效果](效果.png)
+![app主页面](https://github.com/hblhbjx3/B-_-app/edit/master/效果.png)
 
 使用方法：
 
