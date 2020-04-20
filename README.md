@@ -22,10 +22,10 @@ B站ID：路人炳_
 
 第二种方法(需修改代码的选择第二种)：
 
-0.添加字体SourceHanSansHWTC-Bold.otf（可自行修改字体）
-1. 打开 抽奖app/B_choujiang.py 修改代码
-2. 安装pyinstaller库
-3.打包 pyinstaller -D -w -i logo.ico B_choujiang.py
+1. 添加字体SourceHanSansHWTC-Bold.otf（可自行修改字体）
+2. 打开 抽奖app/B_choujiang.py 修改代码
+3. 安装pyinstaller库
+4. 打包 pyinstaller -D -w -i logo.ico B_choujiang.py
 再按照第一种方法进行运行
 
 B站ID：@路人炳_ 
