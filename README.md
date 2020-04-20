@@ -5,7 +5,8 @@ python+Tkinter库
 ## 使用基础代码编写完成
 
 B站ID：路人炳_
-UID:94580301（https://space.bilibili.com/94580301
+
+[UID:94580301]（https://space.bilibili.com/94580301)
 
 使用方法：
 
