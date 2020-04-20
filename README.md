@@ -6,7 +6,7 @@ python+Tkinter库
 
 B站ID：路人炳_
 
-[UID:94580301]（https://space.bilibili.com/94580301)
+[UID:94580301](https://space.bilibili.com/94580301)
 
 使用方法：
 
