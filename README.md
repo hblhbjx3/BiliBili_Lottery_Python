@@ -8,6 +8,8 @@ B站ID：路人炳_
 
 [UID:94580301](https://space.bilibili.com/94580301)
 
+[视频教程](https://www.bilibili.com/video/BV1Y7411p7Sw)
+
 使用方法：
 
 先解压
